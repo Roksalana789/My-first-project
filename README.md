@@ -4,4 +4,4 @@
 Фото:
  
  
-![Фото из Римини](https://github.com/Roksalana789/My-first-project/blob/main/Foto.JPG)
+![Фото из Римини](Foto.JPG)
